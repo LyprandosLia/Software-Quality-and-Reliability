@@ -1,0 +1,12 @@
+C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\ManageProductsLib\bin\Release\net10.0\countries_ean.json
+C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\ManageProductsLib\bin\Release\net10.0\ManageProductsLib.deps.json
+C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\ManageProductsLib\bin\Release\net10.0\ManageProductsLib.dll
+C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\ManageProductsLib\bin\Release\net10.0\ManageProductsLib.pdb
+C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\ManageProductsLib\obj\Release\net10.0\ManageProductsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\ManageProductsLib\obj\Release\net10.0\ManageProductsLib.AssemblyInfoInputs.cache
+C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\ManageProductsLib\obj\Release\net10.0\ManageProductsLib.AssemblyInfo.cs
+C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\ManageProductsLib\obj\Release\net10.0\ManageProductsLib.csproj.CoreCompileInputs.cache
+C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\ManageProductsLib\obj\Release\net10.0\ManageProductsLib.dll
+C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\ManageProductsLib\obj\Release\net10.0\refint\ManageProductsLib.dll
+C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\ManageProductsLib\obj\Release\net10.0\ManageProductsLib.pdb
+C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\ManageProductsLib\obj\Release\net10.0\ref\ManageProductsLib.dll

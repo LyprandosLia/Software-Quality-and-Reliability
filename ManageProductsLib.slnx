@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ManageProductsLib/ManageProductsLib.csproj" />
+  <Project Path="TestAPp/TestApp.csproj" Id="8cea472d-60b7-465f-b215-0038f10b0482" />
+</Solution>

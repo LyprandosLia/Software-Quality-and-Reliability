@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lyprandos\\Desktop\\\u03A0\u03BF\u03B9\u03BF\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u0391\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03B9\u03B1\\Code\\ManageProductsLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B7DFEF-7A2A-2E8D-5669-C596D29172BF}|ManageProductsLib\\ManageProductsLib.csproj|c:\\users\\lyprandos\\desktop\\\u03C0\u03BF\u03B9\u03BF\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u03B1\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03B9\u03B1\\code\\manageproductslib\\manageproductslib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B7DFEF-7A2A-2E8D-5669-C596D29172BF}|ManageProductsLib\\ManageProductsLib.csproj|solutionrelative:manageproductslib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B7DFEF-7A2A-2E8D-5669-C596D29172BF}|ManageProductsLib\\ManageProductsLib.csproj|c:\\users\\lyprandos\\desktop\\\u03C0\u03BF\u03B9\u03BF\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u03B1\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03B9\u03B1\\code\\manageproductslib\\manageproductslib\\manageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B7DFEF-7A2A-2E8D-5669-C596D29172BF}|ManageProductsLib\\ManageProductsLib.csproj|solutionrelative:manageproductslib\\manageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B7DFEF-7A2A-2E8D-5669-C596D29172BF}|ManageProductsLib\\ManageProductsLib.csproj|c:\\users\\lyprandos\\desktop\\\u03C0\u03BF\u03B9\u03BF\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u03B1\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03B9\u03B1\\code\\manageproductslib\\manageproductslib\\countries_ean.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D7B7DFEF-7A2A-2E8D-5669-C596D29172BF}|ManageProductsLib\\ManageProductsLib.csproj|solutionrelative:manageproductslib\\countries_ean.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEA472D-60B7-465F-B215-0038F10B0482}|TestAPp\\TestApp.csproj|c:\\users\\lyprandos\\desktop\\\u03C0\u03BF\u03B9\u03BF\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u03B1\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03B9\u03B1\\code\\manageproductslib\\testapp\\testapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CEA472D-60B7-465F-B215-0038F10B0482}|TestAPp\\TestApp.csproj|solutionrelative:testapp\\testapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEA472D-60B7-465F-B215-0038F10B0482}|TestAPp\\TestApp.csproj|c:\\users\\lyprandos\\desktop\\\u03C0\u03BF\u03B9\u03BF\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u03B1\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03B9\u03B1\\code\\manageproductslib\\testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEA472D-60B7-465F-B215-0038F10B0482}|TestAPp\\TestApp.csproj|solutionrelative:testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B7DFEF-7A2A-2E8D-5669-C596D29172BF}|ManageProductsLib\\ManageProductsLib.csproj|c:\\users\\lyprandos\\desktop\\\u03C0\u03BF\u03B9\u03BF\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u03B1\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03B9\u03B1\\code\\manageproductslib\\manageproductslib\\manageproductslib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7B7DFEF-7A2A-2E8D-5669-C596D29172BF}|ManageProductsLib\\ManageProductsLib.csproj|solutionrelative:manageproductslib\\manageproductslib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageProductsLib.csproj",
+              "DocumentMoniker": "C:\\Users\\Lyprandos\\Desktop\\\u03A0\u03BF\u03B9\u03BF\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u0391\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03B9\u03B1\\Code\\ManageProductsLib\\ManageProductsLib\\ManageProductsLib.csproj",
+              "RelativeDocumentMoniker": "ManageProductsLib\\ManageProductsLib.csproj",
+              "ToolTip": "C:\\Users\\Lyprandos\\Desktop\\\u03A0\u03BF\u03B9\u03BF\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u0391\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03B9\u03B1\\Code\\ManageProductsLib\\ManageProductsLib\\ManageProductsLib.csproj",
+              "RelativeToolTip": "ManageProductsLib\\ManageProductsLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-18T12:37:22.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "countries_ean.json",
+              "DocumentMoniker": "C:\\Users\\Lyprandos\\Desktop\\\u03A0\u03BF\u03B9\u03BF\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u0391\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03B9\u03B1\\Code\\ManageProductsLib\\ManageProductsLib\\countries_ean.json",
+              "RelativeDocumentMoniker": "ManageProductsLib\\countries_ean.json",
+              "ToolTip": "C:\\Users\\Lyprandos\\Desktop\\\u03A0\u03BF\u03B9\u03BF\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u0391\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03B9\u03B1\\Code\\ManageProductsLib\\ManageProductsLib\\countries_ean.json",
+              "RelativeToolTip": "ManageProductsLib\\countries_ean.json",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-18T14:08:27.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Lyprandos\\Desktop\\\u03A0\u03BF\u03B9\u03BF\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u0391\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03B9\u03B1\\Code\\ManageProductsLib\\TestAPp\\TestApp.csproj",
+              "RelativeDocumentMoniker": "TestAPp\\TestApp.csproj",
+              "ToolTip": "C:\\Users\\Lyprandos\\Desktop\\\u03A0\u03BF\u03B9\u03BF\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u0391\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03B9\u03B1\\Code\\ManageProductsLib\\TestAPp\\TestApp.csproj",
+              "RelativeToolTip": "TestAPp\\TestApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-18T13:21:01.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lyprandos\\Desktop\\\u03A0\u03BF\u03B9\u03BF\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u0391\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03B9\u03B1\\Code\\ManageProductsLib\\TestAPp\\Program.cs",
+              "RelativeDocumentMoniker": "TestAPp\\Program.cs",
+              "ToolTip": "C:\\Users\\Lyprandos\\Desktop\\\u03A0\u03BF\u03B9\u03BF\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u0391\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03B9\u03B1\\Code\\ManageProductsLib\\TestAPp\\Program.cs",
+              "RelativeToolTip": "TestAPp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:20:08.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageProducts.cs",
+              "DocumentMoniker": "C:\\Users\\Lyprandos\\Desktop\\\u03A0\u03BF\u03B9\u03BF\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u0391\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03B9\u03B1\\Code\\ManageProductsLib\\ManageProductsLib\\ManageProducts.cs",
+              "RelativeDocumentMoniker": "ManageProductsLib\\ManageProducts.cs",
+              "ToolTip": "C:\\Users\\Lyprandos\\Desktop\\\u03A0\u03BF\u03B9\u03BF\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u0391\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03B9\u03B1\\Code\\ManageProductsLib\\ManageProductsLib\\ManageProducts.cs",
+              "RelativeToolTip": "ManageProductsLib\\ManageProducts.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:39:47.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lyprandos\\Desktop\\\u03A0\u03BF\u03B9\u03BF\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u0391\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03B9\u03B1\\Code\\ManageProductsLib\\ManageProductsLib\\Product.cs",
+              "RelativeDocumentMoniker": "ManageProductsLib\\Product.cs",
+              "ToolTip": "C:\\Users\\Lyprandos\\Desktop\\\u03A0\u03BF\u03B9\u03BF\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u0391\u03BE\u03B9\u03BF\u03C0\u03B9\u03C3\u03C4\u03B9\u03B1\\Code\\ManageProductsLib\\ManageProductsLib\\Product.cs",
+              "RelativeToolTip": "ManageProductsLib\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:37:51.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
