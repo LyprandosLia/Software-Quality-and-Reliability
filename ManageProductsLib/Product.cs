@@ -4,13 +4,13 @@ using System.Text;
 
 namespace ManageProductsLib
 {
-    internal class Product
+    public class Product
     {
-        string Barcode;
-        string Country;
-        int Stock;
-        string Category;
-        double Price;
-        int Discount; // Discount percentage (0-100)
+        public string Barcode { get; set; }
+        public string Country { get; set; }
+        public int Stock { get; set; }
+        public string Category { get; set; }
+        public double Price { get; set; }
+        public int Discount { get; set; }
     }
 }

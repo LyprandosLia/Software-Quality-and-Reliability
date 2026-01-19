@@ -106,16 +106,14 @@ namespace ManageProductsLib
             int polandProducts = ManageProducts.AmountOfProducts(products2, "Poland");
             Console.WriteLine($"Number of products from Poland: {polandProducts}");
 
-
-
             //Testing function ProductsTopOrder()
             Product[] products3 = new Product[]
-             {
+       {
             new Product { Barcode = "4006381333931", Category = "Ηλεκτρονικά", Price = 100, Stock = 50 },
             new Product { Barcode = "5909876543217", Category = "Τρόφιμα", Price = 50, Stock = 5 },
             new Product { Barcode = "4001234567890", Category = "Βιβλία", Price = 200, Stock = 20 },
             new Product { Barcode = "5901111111118", Category = "Καλλυντικά", Price = 30, Stock = 2 }
-             };
+       };
 
             int stockLimit = 10;
             Product[] productsToOrder = null;

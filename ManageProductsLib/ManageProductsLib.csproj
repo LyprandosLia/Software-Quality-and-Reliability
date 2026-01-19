@@ -7,6 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Update="ManageProducts.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
     <None Update="countries_ean.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>

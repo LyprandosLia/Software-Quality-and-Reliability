@@ -10,3 +10,5 @@ C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\Man
 C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\ManageProductsLib\obj\Debug\net10.0\ManageProductsLib.pdb
 C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\ManageProductsLib\obj\Debug\net10.0\ref\ManageProductsLib.dll
 C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\ManageProductsLib\bin\Debug\net10.0\countries_ean.json
+C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\ManageProductsLib\obj\Debug\net10.0\ManageProductsLib.sourcelink.json
+C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\ManageProductsLib\bin\Debug\net10.0\ManageProducts.cs

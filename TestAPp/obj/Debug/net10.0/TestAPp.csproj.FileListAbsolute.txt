@@ -17,3 +17,6 @@ C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\Man
 C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\TestAPp\obj\Debug\net10.0\TestAPp.genruntimeconfig.cache
 C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\TestAPp\obj\Debug\net10.0\ref\TestAPp.dll
 C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\TestAPp\bin\Debug\net10.0\countries_ean.json
+C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\TestAPp\obj\Debug\net10.0\TestApp.sourcelink.json
+C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\TestAPp\bin\Debug\net10.0\ManageProducts.cs
+C:\Users\Lyprandos\Desktop\Ποιοτητα και Αξιοπιστια\Code\ManageProductsLib\TestAPp\bin\Debug\net10.0\Program.cs
